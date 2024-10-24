@@ -3,3 +3,4 @@ test
 “Yellow is the third color of the rainbow.”
 “Green is the fourth color of the rainbow.”
 “Indigo is the sixth color of the rainbow.”
+“These are the colors of the rainbow.”
