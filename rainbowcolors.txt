@@ -6,3 +6,4 @@ test
 “These are the colors of the rainbow.”
 "testing"
 "new learning"
+"test"
