@@ -5,3 +5,4 @@ test
 “Indigo is the sixth color of the rainbow.”
 “These are the colors of the rainbow.”
 "testing"
+"new learning"
